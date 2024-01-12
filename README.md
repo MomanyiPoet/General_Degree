@@ -1,6 +1,6 @@
 ## DEGREE REFRESHER
 
- > [Frontend/Backend/Full Stack] developer on a journey to fine tune various technologies and build impactful solutions. Our learning roadmap has been an exciting exploration of both technical and soft skills.
+[Frontend/Backend/Full Stack] developer on a journey to fine tune various technologies and build impactful solutions. Our learning roadmap has been an exciting exploration of both technical and soft skills.
 
 ### 1. Job & Interview Preparation:
 - We've dedicated time to not only to sharpen our coding skills but also to enhance problem-solving abilities and communication skills. Through mock interviews and continuous improvement, we are well-prepared to tackle challenges in the tech industry.

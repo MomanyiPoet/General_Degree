@@ -1,6 +1,6 @@
 ## LEARNING PORTALS + TECH RESOURCES
 
- > [Frontend/Backend/Full Stack] developer on a journey to fine tune various technologies and build impactful solutions. Our learning roadmap has been an exciting exploration of both technical and soft skills.
+[Frontend/Backend/Full Stack] developer on a journey to fine tune various technologies and build impactful solutions. Our learning roadmap has been an exciting exploration of both technical and soft skills.
 
 ### 1. Productivity Websites + Tools:
 - [Notion](https://www.notion.so/) - Provides templates to stay organised. It's the all-in-one workspace for you and your team.
@@ -28,3 +28,9 @@
 - [Hackerrank](https://www.hackerrank.com/)
 - [Leetcode](https://leetcode.com/)
 - [30secondsofcode](https://www.30secondsofcode.org/)
+
+**Feel free to add any engaging content**
+
+## Author
+
+- Momanyi Brian - [Website](https://momanyi-brian-portfolio.vercel.app)
