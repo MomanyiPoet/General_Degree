@@ -17,7 +17,7 @@ This page contains:
 - Figma designs and resources.
 
 ### Figma Contents
-- Intrdoduction
+- Introduction
   - What is figma?
   - Create figma account
   - Figma editor, canvas
