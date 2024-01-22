@@ -1,4 +1,4 @@
-## INTRODUCTION TO HTML
+## PORTFOLIO PROJECT
 
 ## Table of contents
 
