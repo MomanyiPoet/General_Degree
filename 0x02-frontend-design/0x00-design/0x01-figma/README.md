@@ -3,6 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
+  - [Induction](#induction)
   - [Introduction](#introduction)
   - [Figma Contents](#figma-contents)
   - [Useful resources](#useful-resources)
@@ -10,6 +11,9 @@
 
 
 ## Overview
+
+### Induction
+- We will be creating a Weather API project. The project will be found at the Root Repository.
 
 ### Introduction
 

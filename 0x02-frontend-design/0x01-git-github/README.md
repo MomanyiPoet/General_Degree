@@ -3,6 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
+  - [Induction](#induction)
   - [Introduction](#introduction)
   - [Screenshot](#screenshot)
 - [Setting Up Git](#setting-up-git)
@@ -14,10 +15,15 @@
 - [Advanced Git Topics](#advanced-git-topics)
 - [Best Practices](#best-practices)
 - [Conclusion](#conclusion)
+- [Useful Resources](#useful-resources)
 - [Author](#author)
 
 
 ## Overview
+
+### Induction
+- We will be creating a Weather API project. The project will be found at the Root Repository.
+
 
 ### Introduction
 - **Git** is a distributed version control system used to track changes in source code during software development. It allows multiple developers to collaborate on projects while keeping a complete history of changes.
