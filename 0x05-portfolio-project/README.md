@@ -18,7 +18,7 @@
 
 ### Figma Design
 - This section contains the figma design for the Msaavy Weather
-- Msaavy Weather - [Figma Design](https://www.figma.com/file/j2ZB7y0dD6SpKHAMy4MX5Z/Msaavy-Weather?type=design&node-id=0-1&mode=design&t=ld6nsQ45kEITW8sE-0)
+- Msaavy Weather - [Figma Design](https://www.figma.com/file/j2ZB7y0dD6SpKHAMy4MX5Z/Msaavy-Weather?type=design&node-id=0%3A1&mode=design&t=cL5bkcwlgTZY9bqC-1)
 
 ## Useful Resources
 - [Open Weather API](https://openweathermap.org/api)
