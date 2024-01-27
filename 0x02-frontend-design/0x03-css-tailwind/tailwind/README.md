@@ -13,6 +13,7 @@
 
 ### Induction
 - We will be creating a Weather API project. The Portfolio Project will be found at the Root Repository.
+- Read through the documentation to gain more understanding. Link provided in [Useful Resources](#useful-resources) below.
 
 ### Introduction
 - Tailwind CSS is a utility-first CSS framework that provides a set of low-level utility classes to build designs directly in your markup. Unlike traditional CSS frameworks that come with predefined components, Tailwind focuses on providing small, composable utility classes that can be combined to create custom styles.
@@ -32,11 +33,8 @@
 ```
 
 ## Useful Resources
-- HTML - [MDN Webdocks](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
-- HTML - [Dave Gray HTML Tutorial](https://www.youtube.com/watch?v=n4R2E7O-Ngo&list=PL0Zuz27SZ-6M1Uopt6_VL3gf3cpMnwavm&index=1)
-- HTML Tutorial - [Web Dev Simplified](https://www.youtube.com/watch?v=BvJYXl2ywUE&list=PLZlA0Gpn_vH8BoXcpCUvdmdPZFuR5y2lV&pp=iAQB)
-- HTML Tutorial - [Net Ninja](https://www.youtube.com/watch?v=Y1BlT4_c_SU&list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc&pp=iAQB)
-- HTML - [Frontend Roadmap](https://roadmap.sh/frontend)
+- Tailwind Website - [Tailwind](https://tailwindcss.com/)
+- Tailwind CSS - [Dave Gray HTML Tutorial](https://www.youtube.com/watch?v=lCxcTsOHrjo&list=PL0Zuz27SZ-6M1Uopt6_VL3gf3cpMnwavm&index=9)
 
 **More content to be added, feel free to add any engaging content**
 
