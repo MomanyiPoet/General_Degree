@@ -19,11 +19,12 @@
 
 ### Figma Design
 - This section contains the figma design for Msaavy Weather below:
-- Msaavy Weather - [Figma Design](https://www.figma.com/file/j2ZB7y0dD6SpKHAMy4MX5Z/Msaavy-Weather?type=design&node-id=0%3A1&mode=design&t=cL5bkcwlgTZY9bqC-1)
+- Link to Msaavy Weather - [Figma Design](https://www.figma.com/file/j2ZB7y0dD6SpKHAMy4MX5Z/Msaavy-Weather?type=design&node-id=0%3A1&mode=design&t=cL5bkcwlgTZY9bqC-1)
 
 ### HTML + CSS + Tailwind Development
 - This section shows the code templates for Msaavy Weather.
 - The templates are in the folder blueprint.
+- Link to Msavvy Weather - [Msavvy Weather Template](https://momanyipoet.github.io/General_Degree/0x05-portfolio-project/blueprint/build/)
 
 ## Useful Resources
 - [Tailwind Website](https://tailwindcss.com/)

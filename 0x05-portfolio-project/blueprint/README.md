@@ -90,6 +90,7 @@ npm run blueprint
 
 ## Useful Resources
 - [Tailwind Website](https://tailwindcss.com/)
+- [Msavvy Weather Template](https://momanyipoet.github.io/General_Degree/0x05-portfolio-project/blueprint/build/)
 
 **More content to be added, feel free to add any engaging content**
 
