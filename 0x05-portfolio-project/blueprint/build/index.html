@@ -3,12 +3,145 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="./assets/favicon/site.webmanifest">
+
+    <!-- Title -->
     <title>Msavvy Weather</title>
+
+    <!-- Font Awesome Icons -->
+    <script src="https://kit.fontawesome.com/a9cdceb046.js" crossorigin="anonymous"></script>
+
+    <!-- Custom CSS -->
     <link rel="stylesheet" href="./assets/css/style.css">
 </head>
-<body>
-    <h1 class="text-3xl font-bold underline">
-        Your Name
-    </h1>
+<body class="min-h-screen font-Poppins font-semibold bg-gradient-to-r from-darky via-secondary to-darky">
+    <div class="max-w-7xl mx-auto py-6">
+        <div class="mx-4 xl:mx-0 flex flex-col space-y-6">
+            <header class="bg-secondary rounded-3xl py-4 px-4 sm:px-8 shadow-xl">
+                <div class="flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0 text-whity">
+                    <h5 class="text-lg">Msavvy <span class="bg-gradient-to-r from-whity via-primary/90 to-cream text-transparent bg-clip-text">Weather</span></h5>
+                    <form method="post" class="flex flex-row items-center justify-center space-x-4 bg-whity text-darky rounded-3xl py-1 px-4">
+                        <input type="text" class="input input-xs w-full max-w-xs font-normal italic text-xs sm:text-base bg-whity" placeholder="Search City/Town" required/>
+                        <button type="submit"><i class="fa-solid fa-magnifying-glass-location fa-shake text-darky text-lg"></i></button>
+                    </form>
+                </div>
+            </header>
+
+            <section class="bg-secondary rounded-3xl shadow-xl">
+                <div class="card card-side flex flex-col sm:flex-row sm:items-center">
+                    <div class="card-body text-whity flex flex-col space-y-6">
+                        <div class="card-title flex justify-between items-center sm:text-sm md:text-xl lg:text-2xl">
+                            <h5>Nairobi Kenya</h5>
+                            <h5>12:34 PM</h5>
+                        </div>
+                        <div class="flex justify-evenly items-center">
+                            <div class="flex flex-col items-center">
+                                <h1 class="text-7xl sm:text-4xl md:text-5xl lg:text-9xl">18 &deg;</h1>
+                                <h6>Cloudy</h6>
+                            </div>
+                            <i class="fa-solid fa-cloud-sun fa-beat-fade text-7xl sm:text-4xl md:text-5xl lg:text-9xl"></i>
+                        </div>
+                    </div>
+                    <figure>
+                        <img class="rounded-3xl sm:rounded-none" src="https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmFpcm9iaXxlbnwwfHwwfHx8MA%3D%3D" alt="">
+                    </figure>
+                </div>
+            </section>
+
+            <section>
+                <div class="grid grid-cols-2 lg:grid-cols-3 gap-2 md:gap-4">
+                    <!-- Card 1 -->
+                    <div class="bg-secondary rounded-3xl text-whity p-4 shadow-xl">
+                        <div class="flex flex-row justify-around items-center">
+                            <p class="opacity-50 text-xs sm:text-md">Previous</p>
+                            <p class="text-sm sm:text-lg">MONDAY</p>
+                            <p class="opacity-50 text-xs sm:text-md">Next</p>
+                        </div>
+                        <div class="text-center my-4">
+                            <h1 class="text-4xl">22 JAN</h1>
+                        </div>
+                        <div class="text-center">
+                            <p class="text-sm">2024</p>
+                        </div>
+                    </div>
+
+                    <!-- Card 2 -->
+                    <div class="bg-secondary rounded-3xl text-whity p-4 shadow-xl">
+                        <div class="flex flex-row justify-around items-center">
+                            <p class="text-xs sm:text-lg">CLOUDY</p>
+                            <i class="fa-solid fa-cloud-sun fa-beat-fade text-sm sm:text-xl"></i>
+                        </div>
+                        <div class="text-center my-4">
+                            <h1 class="text-4xl">2 %</h1>
+                        </div>
+                        <div class="text-center">
+                            <p class="text-sm">Normal</p>
+                        </div>
+                    </div>
+
+                    <!-- Card 3 -->
+                    <div class="bg-secondary rounded-3xl text-whity p-4 shadow-xl">
+                        <div class="flex flex-row justify-around items-center">
+                            <p class="text-xs sm:text-lg">HUMIDITY</p>
+                            <i class="fa-solid fa-water fa-beat-fade text-sm sm:text-xl"></i>
+                        </div>
+                        <div class="text-center my-4">
+                            <h1 class="text-4xl">2 %</h1>
+                        </div>
+                        <div class="text-center">
+                            <p class="text-sm">Normal</p>
+                        </div>
+                    </div>
+
+                    <!-- Card 4 -->
+                    <div class="bg-secondary rounded-3xl text-whity p-4 shadow-xl">
+                        <div class="flex flex-row justify-around items-center">
+                            <p class="text-xs sm:text-lg">WIND</p>
+                            <i class="fa-solid fa-wind fa-beat-fade text-sm sm:text-xl"></i>
+                        </div>
+                        <div class="text-center my-4">
+                            <h1 class="text-4xl">127 km/h</h1>
+                        </div>
+                        <div class="text-center">
+                            <p class="text-sm">WSW</p>
+                        </div>
+                    </div>
+
+                    <!-- Card 5 -->
+                    <div class="bg-secondary rounded-3xl text-whity p-4 shadow-xl">
+                        <div class="flex flex-row justify-around items-center">
+                            <p class="text-xs sm:text-lg">PRESSURE</p>
+                            <i class="fa-solid fa-temperature-arrow-up fa-beat-fade text-sm sm:text-xl"></i>
+                        </div>
+                        <div class="text-center my-4">
+                            <h1 class="text-4xl">1012 hPa</h1>
+                        </div>
+                        <div class="text-center">
+                            <p class="text-sm">Average</p>
+                        </div>
+                    </div>
+
+                    <!-- Card 6 -->
+                    <div class="bg-secondary rounded-3xl text-whity p-4 shadow-xl">
+                        <div class="flex flex-row justify-around items-center">
+                            <p class="text-xs sm:text-lg">SEA LEVEL</p>
+                            <i class="fa-solid fa-icicles fa-beat-fade text-sm sm:text-xl"></i>
+                        </div>
+                        <div class="text-center my-4">
+                            <h1 class="text-4xl">1012 m</h1>
+                        </div>
+                        <div class="text-center">
+                            <p class="text-sm">Height</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
 </body>
 </html>
