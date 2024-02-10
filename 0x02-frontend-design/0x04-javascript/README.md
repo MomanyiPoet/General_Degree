@@ -30,6 +30,18 @@
 ### Conditional Statements + Control Flow
 - **Statements** - if, if-else, else-if, ternary operators
 
+### User Input
+- Alerts, Confirm, Prompt
+
+### Loops
+- Entry Controlled loops - the test condition is tested before entering the loop body. For Loop and While Loop are entry-controlled loops.
+
+- Exit Controlled Loops: the test condition is tested or evaluated at the end of the loop body. Therefore, the loop body will execute at least once, irrespective of whether the test condition is true or false. The do-while loop is exit controlled loop.
+
+### Functions
+- Function Declaration, Anonymous Function, Arrow Function
+- Function Call
+
 ## Useful Resources
 - [MDN Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
