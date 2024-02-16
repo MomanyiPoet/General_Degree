@@ -42,6 +42,10 @@
 - Function Declaration, Anonymous Function, Arrow Function
 - Function Call
 
+### Scope
+- Global Scope
+- Local Scope - block scope, function scope
+
 ## Useful Resources
 - [MDN Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
