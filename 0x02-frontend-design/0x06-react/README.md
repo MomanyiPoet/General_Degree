@@ -22,7 +22,7 @@
 ### Install Node.js
 - Node.js installed on your computer. Download it from the official website.
 
-### Creating a React App using Vite
+### Creating a React App using Vite + Tailwind CSS
 
 ```bash
 # Terminal or command prompt.
@@ -60,6 +60,8 @@ module.exports = {
 
 npm run dev -- --host
 ```
+
+## Components + Templates & Dynamic Values
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
