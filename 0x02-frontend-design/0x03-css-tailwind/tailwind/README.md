@@ -32,6 +32,8 @@
 </div>
 ```
 
+**More content about installing tailwind and using components, will be found in the [tailwind official website](https://tailwindcss.com/docs/installation)**
+
 ## Useful Resources
 - Tailwind Website - [Tailwind](https://tailwindcss.com/)
 - Tailwind CSS - [Dave Gray HTML Tutorial](https://www.youtube.com/watch?v=lCxcTsOHrjo&list=PL0Zuz27SZ-6M1Uopt6_VL3gf3cpMnwavm&index=9)
