@@ -76,6 +76,8 @@
 - [Python Official Site](https://www.python.org/)
 - [Django Official Site](https://www.djangoproject.com/)
 - [Django Rest Framework](https://www.django-rest-framework.org/)
+- [Django project in Ubuntu](https://www.youtube.com/watch?v=BSRN0hC96L8)
+- [Hiding Secret Keys](https://medium.com/@natmakesthings/hiding-secret-key-in-django-deployment-on-heroku-59b9640819a)
 
 
 **More content to be added, feel free to add any engaging content**
