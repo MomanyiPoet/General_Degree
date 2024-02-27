@@ -20,7 +20,7 @@
 
 - Django REST framework is a powerful and flexible toolkit for building Web APIs.
 
-## Django Content
+## Django + Django REST framework Content
 
 ### Create Django Project (Ubuntu)
 
