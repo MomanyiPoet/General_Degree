@@ -12,7 +12,7 @@ This content entails a list of softwares and tools required for programming/codi
 - IDE - [vscode](https://code.visualstudio.com/), [cursor](https://cursor.sh/) intergrated with AI - Either select one or both
 - Docker - build, share, and run applications anywhere — without tedious environment configuration or management.
 - [firebase](https://firebase.google.com/)
-- [PostgreSql](https://www.postgresql.org/)
+- [PostgreSql](https://www.postgresql.org/) & [XAMPP](https://www.apachefriends.org/download.html)
 - [mongodb](https://www.mongodb.com/)
 
 ### Tools + Framework + Extensions:
