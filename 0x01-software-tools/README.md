@@ -3,7 +3,7 @@
 This content entails a list of softwares and tools required for programming/coding.
 
 ### Software:
-1. Frontend
+
 - Web Browsers - Chrome, Firefox, Brave, Edge
 - GitHub Account
 - Figma Account
@@ -14,8 +14,6 @@ This content entails a list of softwares and tools required for programming/codi
 - [firebase](https://firebase.google.com/)
 - [PostgreSql](https://www.postgresql.org/)
 - [mongodb](https://www.mongodb.com/)
-
-2. Backend
 
 ### Tools + Framework + Extensions:
 1. Frontend
