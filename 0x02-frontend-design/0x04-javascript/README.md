@@ -53,4 +53,4 @@
 
 ## Author
 
-- Momanyi Brian - [Website](https://momanyi-brian-portfolio.vercel.app)
+- Momanyi Brian - [Portfolio](https://portfolio-momanyi-brian.vercel.app)
