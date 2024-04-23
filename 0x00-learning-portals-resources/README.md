@@ -14,6 +14,7 @@
 - [app academy](https://www.appacademy.io/course/app-academy-open)
 - [Dash](https://dash.generalassemb.ly/)
 - [SEO](https://learningseo.io/)
+- [Max Business Skool SEO](https://www.skool.com/max-business-school)
 - [Learn Anything](https://learn-anything.xyz/)
 - [30 days of React GitHub](https://github.com/Asabeneh/30>Days-Of-React)
 - [30 days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
