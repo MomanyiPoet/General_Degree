@@ -1,14 +1,14 @@
 #!/usr/bin/node
-const square = Math.floor(Number(process.argv[2]));
 
-if (isNaN(square)) {
-    console.log('Missing size');
-} else {
-    for (let i = 0; i < square; i++) {
-        let row = '';
-        for (let j = 0; j < square; j++)
-            row += 'X'
-            console.log(row);
+function factorial(a){
+    if ( a === NaN ){
+        return 1;
+    } else {
+        let result = 1;
+        for (let i = 2; i <= a; i++) {
+            result *= i;
+        }
+        return result;
     }
 }
-
+console.log(factorial(Number(process.argv[2])));

@@ -73,6 +73,7 @@ Currently, two official plugins are available:
 ## Useful Resources
 - [Tailwind Website](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
+- [React In Depth - Tech with Nader Youtube](https://www.youtube.com/watch?v=qnrYvsBdtD8&list=PLovN13bqAx7CKHNJnW3npFEXlXUQBghNI)
 
 **More content to be added, feel free to add any engaging content**
 

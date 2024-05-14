@@ -45,8 +45,15 @@
 - Local Scope - block scope, function scope
 
 ### Functions
-- Function Declaration, Anonymous Function, Arrow Function
+- Function Declaration and Function Expression, Anonymous Function, Arrow Function
 - Function Call
+
+### Objects
+- properties or methods
+- 'this' keyword refers to the object that is currently executing the code. In other words, this refers to the object that the function is a method of, or the object that called the function.
+- class, super, extends - ES6
+- Inheritance
+- Object prototypes
 
 ## Useful Resources
 - [MDN Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
