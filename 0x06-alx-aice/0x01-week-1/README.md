@@ -127,5 +127,4 @@ Six Building Blocks of a Good Prompt
 
 
 ## Author
-
-- Momanyi Brian - [Website](https://portfolio-momanyi-brian.vercel.app)
+- Momanyi Brian - [Portfolio](https://portfolio-momanyi-brian.vercel.app)
