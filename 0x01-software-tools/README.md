@@ -19,7 +19,7 @@ This content entails a list of softwares and tools required for programming/codi
 1. Frontend
 - node.js - open-source, cross-platform JavaScript runtime environment. Contains npm and npx for React.
 - Bootstrap framework
-- vscode/ cursor extensions - Auto Rename Tag, CSS Peek, ES7 React/Redux/GraphQL/React-Native Snippets, Highlight Matching, HTML CSS Support, Live Server,Prettier, Tailwind CSS Intellisense, TODO Highlighetr
+- vscode/ cursor extensions - Auto Rename Tag, CSS Peek, ES7 React/Redux/GraphQL/React-Native Snippets, Highlight Matching, HTML CSS Support, Live Server(Five Server),Prettier, Tailwind CSS Intellisense, TODO Highlighetr
 - Browser Extensions - react developer tools , Detailed SEO extension, Keyword Surfer
 
 2. Backend
