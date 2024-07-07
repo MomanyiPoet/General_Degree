@@ -17,6 +17,7 @@
 
 ### Introduction
 - CSS stands for Cascading Style Sheet. It is a stylesheet language used to describe the presentation of a document written in HTML or XML.
+- CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes.
 
 ## CSS Content
 
