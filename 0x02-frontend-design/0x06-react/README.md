@@ -27,9 +27,9 @@
 ```bash
 # Terminal or command prompt.
 npm create vite@latest
-cd frontend
+cd tutorial
 npm install
-npm run dev -- --host
+npm run dev --host
 
 # Install tailwindcss via npm, and create your tailwind.config.js file.
 npm install -D tailwindcss postcss autoprefixer

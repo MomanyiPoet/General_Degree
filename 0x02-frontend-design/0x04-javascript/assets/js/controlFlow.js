@@ -30,3 +30,55 @@ if (  names.length === 3 ){
     console.log('Excess number');
 }
 console.log('Optimum number = 3, End if else if loop', '\n');
+
+const mernStack = ['MongoDB', 'Express', 'React', 'Node']
+
+for (let stack of mernStack){
+    console.log(stack)
+}
+
+let sum = 0
+let sum2 = 0
+let sums = []
+for (let i = 0; i <= 100; i++){
+    if (i % 2 === 0){
+        sum += i
+    }
+    if (i % 2 === 1){
+        sum2 += i
+    }
+}
+sums.push(sum)
+sums.push(sum2)
+console.log(sums);
+
+let number = 5; 
+let string = '';
+for(let i = 1; i <= number; i++){
+  for(let j = 1; j <= i; j++){
+    string += '*';
+  }
+  string += "\n";
+}
+console.log(string);
+
+let result = '';
+const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+const characters2 = 'abcdefghijklmnopqrstuvwxyz0123456789';
+const charactersLength = characters2.length;
+for (let i = 0; i < 6; i++) {
+    result += characters2.charAt(Math.floor(Math.random() * charactersLength));
+}
+const hex = 
+console.log('#' + result);
+
+let uniqueNumbers = [];
+for (let i = 0; uniqueNumbers.length < 5; i++) {
+    let randomNumber = Math.floor(Math.random() * 100) + 1; // Generate random number between 1 and 100
+
+    if (!uniqueNumbers.includes(randomNumber)) {
+        uniqueNumbers.push(randomNumber);
+    }
+}
+
+console.log(uniqueNumbers);
